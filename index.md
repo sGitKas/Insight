@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Insight Web has the connectors
 
 You can use the [editor on GitHub](https://github.com/sGitKas/insight/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
